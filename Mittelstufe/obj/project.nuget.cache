@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6CprfeuU6gzmGK4k3CC51224yHoM0zE6KjWxoNh5EeTpsAOfliF0OWtQp5tuwghChjfckL6NVECh2mQq50rXqw==",
+  "success": true,
+  "projectFilePath": "H:\\Visual Studio 2019\\Mittelstufe\\Mittelstufe\\Mittelstufe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\technik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

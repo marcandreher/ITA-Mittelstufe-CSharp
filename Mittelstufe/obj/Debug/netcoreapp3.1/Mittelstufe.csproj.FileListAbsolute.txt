@@ -1,0 +1,13 @@
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\bin\Debug\netcoreapp3.1\Mittelstufe.exe
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\bin\Debug\netcoreapp3.1\Mittelstufe.deps.json
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\bin\Debug\netcoreapp3.1\Mittelstufe.runtimeconfig.json
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\bin\Debug\netcoreapp3.1\Mittelstufe.runtimeconfig.dev.json
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\bin\Debug\netcoreapp3.1\Mittelstufe.dll
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\bin\Debug\netcoreapp3.1\Mittelstufe.pdb
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\obj\Debug\netcoreapp3.1\Mittelstufe.csprojAssemblyReference.cache
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\obj\Debug\netcoreapp3.1\Mittelstufe.AssemblyInfoInputs.cache
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\obj\Debug\netcoreapp3.1\Mittelstufe.AssemblyInfo.cs
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\obj\Debug\netcoreapp3.1\Mittelstufe.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\obj\Debug\netcoreapp3.1\Mittelstufe.dll
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\obj\Debug\netcoreapp3.1\Mittelstufe.pdb
+H:\Visual Studio 2019\Mittelstufe\Mittelstufe\obj\Debug\netcoreapp3.1\Mittelstufe.genruntimeconfig.cache
